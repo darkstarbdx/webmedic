@@ -78,7 +78,7 @@
      ```
 
 ## Notes 📌
-SSL Verification Warning: The tool currently disables SSL certificate verification. For production use, ensure you handle SSL verification appropriately. 🔒
+SSL Verification Warning: The tool currently disables SSL certificate verification. For production use, ensure you handle SSL verification appropriately.🔒
 Advanced Options: The tool supports scanning for a wide range of vulnerabilities. Make sure to review and understand the implications of each scan type. 🔎
 Contributing 🤝
 Contributions are welcome! Please read the contributing guidelines first.
